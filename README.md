@@ -1,1 +1,1 @@
-# express-rest-api
+# The Odin Project Express REST API Exercise.
